@@ -63,6 +63,6 @@ Kami dapat memperbarui Kebijakan Privasi kami dari waktu ke waktu. Oleh karena i
 
 ### Hubungi Kami
 Jika Anda memiliki pertanyaan atau saran tentang Kebijakan Privasi kami, jangan ragu untuk menghubungi kami.
-Informasi Kontak:
-Email: wbk.dev@gmail.com
+Informasi Kontak : 
+Email : wbk.dev@gmail.com
 
